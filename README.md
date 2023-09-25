@@ -25,7 +25,7 @@ Typst 提供了好用的 Web IDE，您可以直接访问[这个分享链接](htt
 
 ## 本模板提供的函数
 
-TODO
+常用用法可参考 `main.typ` 中的示例内容。
 
 ## 有用的相关资源
 
@@ -37,7 +37,7 @@ TODO
 的启发， 并基于“提高一页简历中的信息密度”这一排版思路而进一步改进， 并采用
 [Typst][typst] 写成。
 
-> 使用 $LaTeX$ 版本请跳转[resume-ng](https://github.com/fky2015/resume-ng)。
+> 使用 $LaTeX$ 版本请跳转 [Resume-NG](https://github.com/fky2015/resume-ng)。
 
 [typst]: https://typst.app/
 [typst-github]: https://github.com/typst/typst
