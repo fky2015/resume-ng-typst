@@ -8,6 +8,7 @@ description = "A Typst resume designed for optimal information density and aesth
 repository = "https://github.com/fky2015/resume-ng-typst"
 keywords = ["resume", "cv"]
 categories = ["cv"]
+exclude = [".typstignore"]
 
 [template]
 path = "."
