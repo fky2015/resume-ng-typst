@@ -1,4 +1,4 @@
-#import "template.typ": *
+#import "@preview/resume-ng:1.0.0": *
 
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
